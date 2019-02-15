@@ -88,4 +88,4 @@ ii. For Multiple Page:
 
 Copyright (c) 2018 ThemeSINE
 
-khanas is under premium template license in Themesine (https://www.themesine.com/).
+khanas is under premium template license in themsine.com
